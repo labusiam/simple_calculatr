@@ -22,3 +22,4 @@ while True:
         else: break
         
 print("Thank you")
+print("Goodbye")

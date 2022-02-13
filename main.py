@@ -21,4 +21,4 @@ while True:
              continue
         else: break
         
-print("Terimakasihi banyak")
+print("Terimakasih banyak dan sampai jumpa")
